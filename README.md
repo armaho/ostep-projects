@@ -85,6 +85,9 @@ one).
 Read the [install notes](INSTALL-xv6.md) to see how to download the latest xv6 
 and install the tools you'll need.
 
+Oh, and by the way, these projects are also available for the RISC-V version of
+xv6. Check them out [here](/xv6-riscv/readme.md).
+
 ### Initial Projects
 
 * [Intro To xv6](initial-xv6)
