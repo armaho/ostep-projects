@@ -24,7 +24,7 @@ Wish you luck in your kernel hacking journey!
 # Resources
 
 So, the first thing you need is a bit of familiarity with RISC-V assembly.
-I started by reading the *Architecture* chapter of *Digital Design and
+I myself started by reading the *Architecture* chapter of *Digital Design and
 Computer Architecture: RISC-V Edition*, but any resource that gives you a
 basic understanding will do. Then, whenever you need to go deeper, turn to
 the [official documents](https://docs.riscv.org/reference/home/). Use the
