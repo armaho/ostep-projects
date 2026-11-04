@@ -1,6 +1,7 @@
 <!--toc:start-->
 - [What's this?](#whats-this)
 - [Where to start?](#where-to-start)
+- [Resources](#resources)
 <!--toc:end-->
 
 # What's this?
