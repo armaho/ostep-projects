@@ -126,4 +126,4 @@ sync           2 22 36304
 console        3 23 0
 ```
 
-Now it's time to go do the projects!
+Now it's time to go do the projects! Use `C-a` and then `x` to jump out of qemu.
